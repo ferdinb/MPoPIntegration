@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MokaMPOPSample</string>
+    <string name="no_printer">No printers found</string>
+    <string name="print">Print</string>
+    <string name="rp">Rp. %s</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
